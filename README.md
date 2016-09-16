@@ -18,7 +18,14 @@ public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError e
 
 
 ```
-
+##What you need for this book
+For this book, you would need the following software:
+• SoapUI [O.S] 4.0 and higher
+• Selenium Web driver Jars
+• Jenkins
+• JExcel Jar
+• LoadUI
+• Apache Ant 1.9.2
 
 ##Related Mastering SoapUI Products:
 
