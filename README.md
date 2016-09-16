@@ -20,7 +20,7 @@ public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError e
 ```
 
 
-##Related OpenStack Products:
+##Related Mastering SoapUI Products:
 
 * [Web Services Testing with soapUI](https://www.packtpub.com/web-development/web-services-testing-soapui?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781849515665)
 
