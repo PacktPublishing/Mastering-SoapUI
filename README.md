@@ -38,3 +38,7 @@ For this book, you would need the following software:
 
 * [Web Services Testing with soapUI](https://www.packtpub.com/web-development/web-services-testing-soapui?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781849515665)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781783980802">https://packt.link/free-ebook/9781783980802 </a> </p>
